@@ -1,0 +1,24 @@
+---
+title: "Alba Antunez-Rodriguez"
+image: "Headshot_photo_DGP-modified.png"
+links:
+  - label: '📑 CV'
+    url: "https://docs.google.com/document/d/1hC01kYGW7ed04AXsWrdSaabWutE5jVGZDOc967L7sYE/edit?usp=sharing"
+  - label: '🌮 My Blog'
+    url: "https://daianna21.github.io/daianna_blog/"
+  - label: '`r fontawesome::fa("x-twitter", fill = "#242424")` Twitter'
+    url: "https://x.com/daianna_glez/"
+  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
+    url: "https://github.com/daianna21"
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+    url: "https://www.linkedin.com/in/daianna-glez/"
+  - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
+    url: "https://orcid.org/0009-0005-8348-3195"
+  - label: '`r fontawesome::fa("google", fill = "#7EC0EE")` Google Scholar'
+    url: "https://scholar.google.com/citations?user=-TacIy4AAAAJ&hl=es&oi=ao"
+  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+    url: "mailto:glezdaianna@gmail.com"
+output:
+  postcards::trestles
+  
+---
