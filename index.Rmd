@@ -1,6 +1,6 @@
 ---
 title: "Alba Antunez-Rodriguez"
-image: "Headshot_photo_DGP-modified.png"
+image: "foto CV.PNG"
 links:
   - label: '📑 CV'
     url: "https://docs.google.com/document/d/1hC01kYGW7ed04AXsWrdSaabWutE5jVGZDOc967L7sYE/edit?usp=sharing"
