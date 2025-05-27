@@ -16,3 +16,14 @@ output:
   postcards::trestles
   
 ---
+
+## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` About me</span>
+
+|  |  |
+|:------------------------------------------------------------------|
+| I’m a postdoctoral researcher specializing in cardiovascular pharmacogenetics, with a passion for understanding how individual genetic differences affect responses to antiplatelet therapies. My research focuses on identifying novel biomarkers to predict and prevent adverse drug reactions, bringing us closer to personalized medicine.
+---
+
+
+
+## 
