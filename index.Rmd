@@ -18,7 +18,7 @@ output:
 ---
 
 ## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` About me</span>
-
+<p style="color:#999999; font-size: 13px; text-align: right;"> 📍: on-site \ \| \ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`: remote </p>
 |  |  |
 |:------------------------------------------------------------------|
 | I’m a postdoctoral researcher specializing in cardiovascular pharmacogenetics, with a passion for understanding how individual genetic differences affect responses to antiplatelet therapies. My research focuses on identifying novel biomarkers to predict and prevent adverse drug reactions, bringing us closer to personalized medicine.
@@ -26,4 +26,23 @@ output:
 
 
 
+## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#030303")` Education</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> University of Granada (UGR), Granada, Spain </span>** | [2020 - 2025]{style="float:right"}  |
+| <span style="color: #545454;"> PhD in Clinical Medicine and Public Health </span> | [📍🇪🇸]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> San Antonio Catholic University of Murcia (UCAM), Murcia, Spain </span>** | [2021 - 2021]{style="float:right"} |
+| <span style="color: #545454;"> University Expert in Genetic Medicine and Genomic </span> | [`r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Granada (UGR), Granada, Spain </span>** | [2015 - 2016]{style="float:right"}  |
+| <span style="color: #545454;"> MSc in Regenerative Biomedicine </span> | [📍🇪🇸]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Granada (UGR), Granada, Spain </span>** | [2008 - 2014]{style="float:right"}  |
+| <span style="color: #545454;"> BSc in Biology </span> | [📍🇪🇸]{style="float:right"}  ||
+
+---
+
+  
 ## 
