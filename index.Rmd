@@ -1,9 +1,9 @@
 ---
 title: "Alba Antunez-Rodriguez"
-image: "foto CV.PNG"
+image: "Headshot_photo_AAR-modified.png"
 links:
   - label: '📑 CV'
-    url: "https://docs.google.com/document/d/1hC01kYGW7ed04AXsWrdSaabWutE5jVGZDOc967L7sYE/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1OZtWJI203oYb9qgY-9LiMcKtMQiydJ9fe_wkduJ764I/edit?usp=sharing"
   - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
     url: "https://github.com/albantunez"
   - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
@@ -18,7 +18,7 @@ output:
 ---
 
 ## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` About me</span>
-<p style="color:#999999; font-size: 13px; text-align: right;"> 📍: on-site \ \| \ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`: remote </p>
+
 |  |  |
 |:------------------------------------------------------------------|
 | I’m a postdoctoral researcher specializing in cardiovascular pharmacogenetics, with a passion for understanding how individual genetic differences affect responses to antiplatelet therapies. My research focuses on identifying novel biomarkers to predict and prevent adverse drug reactions, bringing us closer to personalized medicine.
@@ -27,7 +27,7 @@ output:
 
 
 ## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#030303")` Education</span>
-
+<p style="color:#999999; font-size: 13px; text-align: right;"> 📍: on-site \ \| \ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`: remote </p>
 |  |  |
 |:--------------------------------------------------|:----------------|
 | **<span style="color:  #030303;"> University of Granada (UGR), Granada, Spain </span>** | [2020 - 2025]{style="float:right"}  |
